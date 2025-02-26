@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 i am sweet
 good morning for everyone
+=======
+i love me!!
+>>>>>>> 941c145e77b4bf3a0ac79d28335af54b67c01a7b
